@@ -34,6 +34,4 @@ Festive discount details on products.
 ### 5️⃣ Orders  
 Stores customer purchase data.
 
----
 
-## 🧱 **SQL Table Structure (DDL)**

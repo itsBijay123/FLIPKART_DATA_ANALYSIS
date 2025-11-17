@@ -1,0 +1,20 @@
+Requirements & Tools
+Tools Used
+
+MySQL / PostgreSQL / SQL Server – Database & query execution
+
+MySQL Workbench / pgAdmin / DBeaver – SQL IDE for writing and testing queries
+
+VS Code – For SQL script writing
+
+Excel / Google Sheets – For optional data review
+
+Requirements
+
+Basic SQL knowledge (DDL, DML, Joins, Aggregations)
+
+Installed SQL database (MySQL recommended)
+
+Ability to create, insert, and analyze data
+
+Interest in real-world data analytics and business insights
